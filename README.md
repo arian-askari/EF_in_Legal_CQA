@@ -4,7 +4,7 @@ Arian Askari, Suzan Verberne, and Gabriella Pasi. *Expert Finding in Legal Commu
 If you use this work, please cite as:
 
 ```
-@InProceedings{macavaney2019ContextualWR,
+@InProceedings{Askari2022ECIR,
   author = {Askari, Arian and Verberne, Suzan and Pasi, Gabriella},
   title = {Expert Finding in Legal Community Question Answering},
   booktitle = {ECIR},
