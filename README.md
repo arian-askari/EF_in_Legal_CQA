@@ -25,4 +25,8 @@ The labels are provided in qrel format (queyr_id itteration user_id label) in `/
 ### Lawyers webpage on Avvo
 The lawyers' webpage addresses are available in `lawyerid_to_lawyerurl.json` in `{"user id": "lawyer url"}` format. Therefore, the lawyer ids (user ids) in labels.csv can be mapped to their webpage on Avvo by this file.
 
+## Baselines
+The implementation of candidate level and document level baselines (Model 1 LM, and Model 2 LM) using Elasticsearch are available at `baselines/candidate_level_lm_lablog.py` and `baselines/document_level_lm_balog.py`.
+
+
 P.S: All pages were stored anonymously during this research with regard to the users' privacy.
