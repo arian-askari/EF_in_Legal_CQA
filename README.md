@@ -22,7 +22,7 @@ The link of all posts that have been used for this reaserch (in Bankruptcy categ
 ### Labels
 The labels are provided in qrel format (queyr_id itteration user_id label) in `/data/labels.qrel`. Itteration is always zero and not used. Query id refers to id of query in queries_bankruptcy.csv file, user id refers to the lawyer id, label is zero for non-expert and one for expert users.
 
-### Lawyers webpage on Avvo
+### Lawyers' webpage on Avvo
 The lawyers' webpage addresses are available in `lawyerid_to_lawyerurl.json` in `{"user id": "lawyer url"}` format. Therefore, the lawyer ids (user ids) in labels.csv can be mapped to their webpage on Avvo by this file.
 
 ## Baselines
