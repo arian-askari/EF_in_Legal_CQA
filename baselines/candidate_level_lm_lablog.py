@@ -11,7 +11,7 @@ es = Elasticsearch(urls="http://localhost", port="9200", timeout=600)
 text_analyzer = TextAnalyzer()
 
 Sampling = False
-CANDIDATE_LEVEL_FIELD = "ef_legal_user_leval"
+CANDIDATE_LEVEL_FIELD = "ef_legal_user_level"
 CANDIDATE_LEVEL_INDEX = "content"
 COUNT_OF_EXPERTS = 3741
 queries_path = "../data/queries_bankruptcy.csv"
