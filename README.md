@@ -4,11 +4,13 @@ Arian Askari, Suzan Verberne, and Gabriella Pasi. *Expert Finding in Legal Commu
 If you use this work, please cite as:
 
 ```
-@InProceedings{Askari2022ECIR,
-  author = {Askari, Arian and Verberne, Suzan and Pasi, Gabriella},
-  title = {Expert Finding in Legal Community Question Answering},
-  booktitle = {ECIR},
-  year = {2022}
+@inproceedings{askari2022expert,
+  title={Expert Finding in Legal Community Question Answering},
+  author={Askari, Arian and Verberne, Suzan and Pasi, Gabriella},
+  booktitle={European Conference on Information Retrieval},
+  pages={22--30},
+  year={2022},
+  organization={Springer}
 }
 ```
 ## Dataset
